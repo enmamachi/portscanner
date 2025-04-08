@@ -1,0 +1,10 @@
+{
+"name": "aplikasi",
+"version": "1.0.0",
+"scripts": {
+"build": "pkg ."
+},
+"pkg": {
+"targets": ["node14-linux-x64", "node14-win-x64"]
+}
+}
